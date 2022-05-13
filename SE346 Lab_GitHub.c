@@ -10,4 +10,6 @@ int main()
 
 	printf("Ozge Tekin,987654,SE\n");
 
+	printf("Doğan Berkay Sözer, 18243510068, Computer Engineering\n");
+
 }
